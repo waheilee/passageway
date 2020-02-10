@@ -3,6 +3,7 @@
 /public/theme/*
 /public/upload/*
 /config/hs_auth.php
+/config/database.php
 /config/hs_cloud.php
 composer.lock
 install.lock
